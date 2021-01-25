@@ -6,4 +6,5 @@ author: Mark
 layout: page
 guid: https://markswoodprojects.com/?page_id=28
 ---
-Hi there. I&#8217;m Mark. I like to build stuff.
+
+Hi there. I'm Mark. I like to build stuff.
