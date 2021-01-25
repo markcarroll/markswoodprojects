@@ -31,7 +31,7 @@ twitter_username: markoncode
 github_username: markcarroll
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 # Exclude from processing.
