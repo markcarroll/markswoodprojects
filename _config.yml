@@ -18,9 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# lsi: false
+# safe: true
+# source: /
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  syntax_highlighter: rouge
+
 title: "Mark's Wood Projects"
 # email: your-email@example.com
 description: woodworking projects and tools
+
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
@@ -29,7 +40,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://markswoodprojects.com
 twitter_username: markoncode
 github_username: markcarroll
-
+markdown: kramdown
 # Build settings
 theme: jekyll-theme-midnight
 plugins:

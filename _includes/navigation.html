@@ -1,0 +1,29 @@
+<header class="mh-header">
+  <div class="mh-container mh-container-inner mh-row mh-clearfix">
+    <div class="mh-custom-header mh-clearfix">
+      <div class="mh-site-logo">
+        <div class="mh-header-text">
+          <a class="mh-header-text-link" href="https://markswoodprojects.com/" title="{{ site.title }}" rel="home">
+            <h1 class="mh-header-title">{{ site.title }}</h1>
+            <h2 class="mh-header-tagline">{{ site.description}}</h2>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="mh-main-nav-wrap">
+    <nav class="mh-navigation mh-main-nav mh-container mh-container-inner mh-clearfix">
+      <div class="menu-menu-1-container">
+        <ul id="menu-menu-1" class="menu">
+          {% for item in site.data.navigation %}
+          <li
+            class="menu-item menu-item-type-custom menu-item-object-custom {% if page.url == item.link %}current-menu-item current_page_item{% endif %} menu-item-home"
+          >
+            <a href="{{ item.link }}">{{ item.name }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>
+  </div>
+</header>
