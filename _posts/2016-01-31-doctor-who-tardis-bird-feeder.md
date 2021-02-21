@@ -10,9 +10,10 @@ image: /wp-content/uploads/2016/01/IMG_1641-2.jpg
 categories:
   - Projects
 ---
+
 Yes, you read that correctly. My wife loves Doctor Who and since she asked me back in early December if I could build her another [bird feeder](http://markswoodprojects.com/projects/simple-bird-feeder/), I thought that I would build her something special &#8211; a TARDIS bird feeder.
 
-[<img class="size-medium wp-image-282 alignleft" src="http://markswoodprojects.com/wp-content/uploads/2016/01/IMG_1466-225x300.jpeg" alt="TARDIS Bird Feeder" width="225" height="300" srcset="https://markswoodprojects.com/wp-content/uploads/2016/01/IMG_1466-225x300.jpeg 225w, https://markswoodprojects.com/wp-content/uploads/2016/01/IMG_1466.jpeg 750w" sizes="(max-width: 225px) 100vw, 225px" />](http://markswoodprojects.com/wp-content/uploads/2016/01/IMG_1466.jpeg)[<img class="size-medium wp-image-299 alignleft" src="http://markswoodprojects.com/wp-content/uploads/2016/01/IMG_1641-225x300.jpg" alt="Tardis Bird Feeder" width="225" height="300" srcset="https://markswoodprojects.com/wp-content/uploads/2016/01/IMG_1641-225x300.jpg 225w, https://markswoodprojects.com/wp-content/uploads/2016/01/IMG_1641-768x1024.jpg 768w, https://markswoodprojects.com/wp-content/uploads/2016/01/IMG_1641.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />](http://markswoodprojects.com/wp-content/uploads/2016/01/IMG_1641.jpg)
+[<img class="size-medium wp-image-282 alignleft" src="/assets/images/2016/01/IMG_1466-225x300.jpeg" alt="TARDIS Bird Feeder" width="225" height="300" />](/assets/images/2016/01/IMG_1466.jpeg)[<img class="size-medium wp-image-299 alignleft" src="http://markswoodprojects.com/wp-content/uploads/2016/01/IMG_1641-225x300.jpg" alt="Tardis Bird Feeder" width="225" height="300" />](http://markswoodprojects.com/wp-content/uploads/2016/01/IMG_1641.jpg)
 
 <p style="float: none; clear: both;">
   I began with the plan for the original 1963 Tardis design that I got from this <a href="http://homepage.ntlworld.com/richard.bradley3/brachaki.pdf">web site</a>, and some guidelines from an Instructables post <a href="http://www.instructables.com/id/TARDIS-Bird-Feeder/">here</a>.  Unfortunately, the measurements on that post were all in millimeters and didn&#8217;t seem to add up, so I derived my own.  Essentially take the plan and scale it to <span class="fraction"><span class="num">3</span>/<span class="den">32</span></span>&#8221; for every 1&#8243; on the plan then take some artistic license to get it looking about right. I also decided that I was going to mount mine on a post rather than hang it, so that caused a few changes too.
@@ -66,7 +67,7 @@ Once all the glue had dried I sprayed everything with a good coat of exterior gr
 
 _Note: before spraying the base, drill some small holes in each corner for water to run through so it doesn&#8217;t pool too much. _
 
-In order to make the windows at the top of each door we want some of the white undercoat to show through, so after the primer has dried cut small pieces of blue painters tape and stick them in a 3&#215;2 pattern in each of the top row segments. I made mine <span class="fraction"><span class="num">3</span>/<span class="den">16</span></span>&#8221; by <span class="fraction"><span class="num">7</span>/<span class="den">16</span></span>&#8220;.  _For someone whole likes building big stuff, I cannot emphasize how much of a pain in the butt this part was!_
+In order to make the windows at the top of each door we want some of the white undercoat to show through, so after the primer has dried cut small pieces of blue painters tape and stick them in a 3&#215;2 pattern in each of the top row segments. I made mine <span class="fraction"><span class="num">3</span>/<span class="den">16</span></span>&#8221; by <span class="fraction"><span class="num">7</span>/<span class="den">16</span></span>&#8220;.  *For someone whole likes building big stuff, I cannot emphasize how much of a pain in the butt this part was!*
 
 I also wrapped a piece of tape around the light on the roof so there would be some white showing through.
 
