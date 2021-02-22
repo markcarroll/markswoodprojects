@@ -4,9 +4,8 @@ title: Shoe Storage Bench
 date: 2018-09-15T20:27:30+00:00
 author: Mark
 layout: post
-guid: http://markswoodprojects.com/?p=333
 permalink: /projects/shoe-storage-bench/
-image: /wp-content/uploads/2017/03/Shoe-Storage-Bench-55.jpg
+image: /assets/images/2017/03/Shoe-Storage-Bench-55.jpg
 categories:
   - Projects
 tags:
@@ -18,7 +17,7 @@ tags:
   - walnut
 ---
 
-[](https://fixthisbuildthat.com)We have wanted a better system for storing our shoes for a long time. When I saw the shoe storage bench that Brad from [FixThisBuildThat](http://fixthisbuildthat.com/sandpaper-disc-storage-rack/) posted, I realized that it would look perfect in our front hallway. So, after a trip to the lumber yard where I picked up some gorgeous 4/4 rough cut walnut, I set about building what ended up as a perfect addition to our home. It is so well used, my wife wants me to make another one!
+We have wanted a better system for storing our shoes for a long time. When I saw the shoe storage bench that Brad from [FixThisBuildThat](http://fixthisbuildthat.com/sandpaper-disc-storage-rack/) posted, I realized that it would look perfect in our front hallway. So, after a trip to the lumber yard where I picked up some gorgeous 4/4 rough cut walnut, I set about building what ended up as a perfect addition to our home. It is so well used, my wife wants me to make another one!
 
 I decided that I was going to paint my bench white with a contrasting dark walnut top, so I went to our local hardwood store to see what I could find.  I found some great looking walnut, some pine for the painted parts and also a gorgeous piece of 6/4 maple that I would use in another project.
 

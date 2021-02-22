@@ -2,11 +2,34 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<header class="entry-header mh-clearfix">
+  <h1 class="entry-title">{{ page.title }}</h1>
+  <p class="mh-meta entry-meta">
+    <!-- <span class="entry-meta-date updated">
+      <i class="fa fa-clock-o"></i>
+      <a class="fn" href='{{site.baseurl}}/{{ page.date | date:"%Y/%m" }}'>{{ page.date | date_to_string }}</a>
+    </span> -->
+    <span class="entry-meta-author author vcard">
+      <i class="fa fa-user"></i>
+      <a class="fn" href="{{site.baseurl}}/authors/{{page.author|slugize}}">{{page.author}}</a>
+    </span>
+    <span class="entry-meta-categories"
+      ><i class="fa fa-folder-open-o"></i>
+      {% if post %} {% assign categories = post.categories %} {% else %} {% assign categories = page.categories %} {%
+      endif %} {% for category in categories %}
+      <a href="{{site.baseurl}}/categories/{{category|slugize}}">{{category| capitalize}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
+    </span>
+  </p>
+</header>
+<div class="entry-content mh-clearfix">
+  <figure class="entry-thumbnail">
+    <img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}" />
+  </figure>
 
-<figure class="entry-thumbnail">
-  <img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}" />
-</figure>
-
-{{ content }}
+  <article
+    class="post type-post status-publish format-standard has-post-thumbnail hentry category-projects tag-dye tag-furniture tag-kreg tag-pine tag-pocket-holes tag-walnut"
+  >
+    {{ content }}
+  </article>
+</div>
