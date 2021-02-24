@@ -52,6 +52,7 @@ body { font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 14px; 
 .mh-col-1-7 { width: 12.14%; }
 .mh-col-1-8 { width: 10.31%; }
 .clear { clear: both; }
+.clearleft { clear: left; }
 .clearfix, .mh-clearfix { display: block; }
 .clearfix:after, .mh-clearfix:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; margin: 0; padding: 0; }
 
