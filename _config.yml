@@ -38,11 +38,12 @@ description: woodworking projects and tools
 #   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://markswoodprojects.com
-twitter_username: markoncode
-github_username: markcarroll
+# twitter_username: markoncode
+# github_username: markcarroll
+instagram_username: markswoodprojects
 markdown: kramdown
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.

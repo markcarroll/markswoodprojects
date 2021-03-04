@@ -1,16 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css" />
-    <link
-      rel="stylesheet"
-      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-      type="text/css"
-      media="all"
-    />
-  </head>
+  {%- include head.html -%}
+
   <body id="mh-mobile" class="home blog custom-background mh-right-sb">
     <div class="mh-container mh-container-outer">
       <div class="mh-header-mobile-nav mh-clearfix"></div>
@@ -19,6 +10,7 @@
       <div class="mh-wrapper mh-clearfix">
         <div id="main-content" class="mh-loop mh-content" role="main">{{ content }}</div>
       </div>
+      {%- include footer.html -%}
     </div>
   </body>
 </html>
