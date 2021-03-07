@@ -58,4 +58,4 @@ Here is the final product outside in the sun.
 
 So far the birds and, more importantly, my wife loves it.
 
-&#8211; See full plan and more at: http://ana-white.com/2013/04/plans/kids-kit-project-2-cedar-birdfeeder
+&#8211; See full plan and more at: [Ana White's site](https://ana-white.com/2013/04/plans/kids-kit-project-2-cedar-birdfeeder)
